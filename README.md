@@ -22,6 +22,7 @@
 9. [Zepto源码分析之ie模块](https://github.com/qianlongo/blog/issues/18)
 10. [Zepto这样操作元素属性](https://github.com/qianlongo/blog/issues/19)
 11. [向Zepto学习关于"偏移"的那些事](https://github.com/qianlongo/blog/issues/20)
+12. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
 
 ## underscore
 
