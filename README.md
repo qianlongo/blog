@@ -10,6 +10,14 @@
 
 ## Zepto
 
+1. [mouseenter与mouseover为何这般纠缠不清？](https://github.com/qianlongo/blog/issues/9)
+2. [向zepto.js学习如何手动(trigger)触发DOM事件](https://github.com/qianlongo/blog/issues/10)
+3. [谁说你只是"会用"jQuery?](https://github.com/qianlongo/blog/issues/11)
+4. [原来你是这样的jsonp(原理与具体实现细节) ](https://github.com/qianlongo/blog/issues/12)
+5. [这些Zepto中实用的方法集](https://github.com/qianlongo/blog/issues/13)
+6. [Zepto核心模块之工具方法拾遗](https://github.com/qianlongo/blog/issues/14)
+7. [Zepto源码分析之form模块](https://github.com/qianlongo/blog/issues/15)
+
 ## underscore
 
 1. [(void 0)与undefined之间的小九九](https://github.com/qianlongo/blog/issues/3)
