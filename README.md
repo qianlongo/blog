@@ -12,7 +12,7 @@
 1. [走一步再走一步，揭开co的神秘面纱](https://github.com/qianlongo/blog/issues/1)
 2. [你知道koa中间件执行原理吗？](https://github.com/qianlongo/blog/issues/2)
 
-## Zepto
+## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
 1. [mouseenter与mouseover为何这般纠缠不清？](https://github.com/qianlongo/blog/issues/9)
 2. [向zepto.js学习如何手动(trigger)触发DOM事件](https://github.com/qianlongo/blog/issues/10)
@@ -28,7 +28,7 @@
 12. [向Zepto学习关于"偏移"的那些事](https://github.com/qianlongo/blog/issues/20)
 13. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
 
-## underscore
+## [underscore](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Aunderscore)
 
 1. [(void 0)与undefined之间的小九九](https://github.com/qianlongo/blog/issues/3)
 2. [那些不起眼的小工具？](https://github.com/qianlongo/blog/issues/4)
