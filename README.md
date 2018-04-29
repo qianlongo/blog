@@ -3,9 +3,11 @@
 
 ## 最新文章
 
+1. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
+
 ## 计划书写
 
-- [] [可以这样管理你的回调callbacks](https://github.com/qianlongo/blog/issues/22)
+1. - [ ] [可以这样管理你的回调callbacks](https://github.com/qianlongo/blog/issues/22)
 
 ## [Nodejs](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Anodejs)
 
@@ -36,3 +38,7 @@
 4. [悄悄地说一个bug](https://github.com/qianlongo/blog/issues/6)
 5. [如何写一个实用的bind？](https://github.com/qianlongo/blog/issues/7)
 6. [你要看看这些有趣的函数方法吗？](https://github.com/qianlongo/blog/issues/8)
+
+## 读书笔记
+
+1. [JavaScript高级程序设计(第三版)读书笔记](https://github.com/qianlongo/professional-js)
