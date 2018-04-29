@@ -14,6 +14,10 @@
 1. [走一步再走一步，揭开co的神秘面纱](https://github.com/qianlongo/blog/issues/1)
 2. [你知道koa中间件执行原理吗？](https://github.com/qianlongo/blog/issues/2)
 
+## [JS](https://github.com/qianlongo/blog/labels/JS)
+
+1. [jQuery中$()函数的7种用法汇总](https://github.com/qianlongo/blog/issues/24)
+
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
 1. [mouseenter与mouseover为何这般纠缠不清？](https://github.com/qianlongo/blog/issues/9)
@@ -38,6 +42,10 @@
 4. [悄悄地说一个bug](https://github.com/qianlongo/blog/issues/6)
 5. [如何写一个实用的bind？](https://github.com/qianlongo/blog/issues/7)
 6. [你要看看这些有趣的函数方法吗？](https://github.com/qianlongo/blog/issues/8)
+
+## [css](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acss)
+
+1. [用css美化你的浏览器滚动条](https://github.com/qianlongo/blog/issues/23)
 
 ## 读书笔记
 
