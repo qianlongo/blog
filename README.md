@@ -3,6 +3,10 @@
 
 ## 最新文章
 
+## 计划书写
+
+- [x] [可以这样管理你的回调callbacks](https://github.com/qianlongo/blog/issues/22)
+
 ## Nodejs
 
 1. [走一步再走一步，揭开co的神秘面纱](https://github.com/qianlongo/blog/issues/1)
@@ -18,11 +22,11 @@
 6. [Zepto核心模块之工具方法拾遗](https://github.com/qianlongo/blog/issues/14)
 7. [Zepto源码分析之form模块](https://github.com/qianlongo/blog/issues/15)
 8. [看Zepto如何实现增删改查DOM ](https://github.com/qianlongo/blog/issues/16)
-8. [Zepto中数据缓存原理与实现](https://github.com/qianlongo/blog/issues/17)
-9. [Zepto源码分析之ie模块](https://github.com/qianlongo/blog/issues/18)
-10. [Zepto这样操作元素属性](https://github.com/qianlongo/blog/issues/19)
-11. [向Zepto学习关于"偏移"的那些事](https://github.com/qianlongo/blog/issues/20)
-12. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
+9. [Zepto中数据缓存原理与实现](https://github.com/qianlongo/blog/issues/17)
+10. [Zepto源码分析之ie模块](https://github.com/qianlongo/blog/issues/18)
+11. [Zepto这样操作元素属性](https://github.com/qianlongo/blog/issues/19)
+12. [向Zepto学习关于"偏移"的那些事](https://github.com/qianlongo/blog/issues/20)
+13. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
 
 ## underscore
 
