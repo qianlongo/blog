@@ -2,17 +2,14 @@
 谦龙的博客，热爱生活，热爱编程，刚入门的一名前端小码农，在这里，写自己想说的话，读过的书，爱的人...喜欢的话点个星星✨✨✨呗
 
 ## 最新文章
-
-1. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
-
-## 计划书写
-
-1. - [ ] [可以这样管理你的回调callbacks](https://github.com/qianlongo/blog/issues/22)
+1. [一个前端小白的"爬虫"初试](https://github.com/qianlongo/blog/issues/26)
+2. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
 
 ## [Nodejs](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Anodejs)
 
 1. [走一步再走一步，揭开co的神秘面纱](https://github.com/qianlongo/blog/issues/1)
 2. [你知道koa中间件执行原理吗？](https://github.com/qianlongo/blog/issues/2)
+3. [一个前端小白的"爬虫"初试](https://github.com/qianlongo/blog/issues/26)
 
 ## [JS](https://github.com/qianlongo/blog/labels/JS)
 
