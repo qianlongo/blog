@@ -47,7 +47,9 @@
 ## [css](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acss)
 
 1. [用css美化你的浏览器滚动条](https://github.com/qianlongo/blog/issues/23)
+2. [聊一聊这些常见而且实用的css技巧](https://github.com/qianlongo/blog/issues/30)
 
 ## 读书笔记
 
 1. [JavaScript高级程序设计(第三版)读书笔记](https://github.com/qianlongo/professional-js)
+
