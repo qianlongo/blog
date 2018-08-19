@@ -20,6 +20,8 @@
 3. [this-想说爱你不容易](https://github.com/qianlongo/blog/issues/29)
 4. [js中call、apply、bind那些事](https://github.com/qianlongo/blog/issues/31)
 5. [前端性能优化之DOM篇章](https://github.com/qianlongo/blog/issues/32)
+6. [一起来实现es5中新增的数组方法](https://github.com/qianlongo/blog/issues/33)
+
 
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
