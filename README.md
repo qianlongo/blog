@@ -19,6 +19,7 @@
 2. [用原生js写一个"多动症"的简历](https://github.com/qianlongo/blog/issues/28)
 3. [this-想说爱你不容易](https://github.com/qianlongo/blog/issues/29)
 4. [js中call、apply、bind那些事](https://github.com/qianlongo/blog/issues/31)
+5. [前端性能优化之DOM篇章](https://github.com/qianlongo/blog/issues/32)
 
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
