@@ -16,6 +16,7 @@
 ## [JS](https://github.com/qianlongo/blog/labels/JS)
 
 1. [jQuery中$()函数的7种用法汇总](https://github.com/qianlongo/blog/issues/24)
+2. [用原生js写一个"多动症"的简历](https://github.com/qianlongo/blog/issues/28)
 
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
