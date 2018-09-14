@@ -18,7 +18,12 @@
 ## [JS](https://github.com/qianlongo/blog/labels/JS)
 
 1. [jQuery中$()函数的7种用法汇总](https://github.com/qianlongo/blog/issues/24)
-2. [从零到有模拟实现一个Set类](https://github.com/qianlongo/blog/issues/34)
+2. [用原生js写一个"多动症"的简历](https://github.com/qianlongo/blog/issues/28)
+3. [this-想说爱你不容易](https://github.com/qianlongo/blog/issues/29)
+4. [js中call、apply、bind那些事](https://github.com/qianlongo/blog/issues/31)
+5. [前端性能优化之DOM篇章](https://github.com/qianlongo/blog/issues/32)
+6. [一起来实现es5中新增的数组方法](https://github.com/qianlongo/blog/issues/33)
+7. [从零到有模拟实现一个Set类](https://github.com/qianlongo/blog/issues/34)
 
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
@@ -48,7 +53,9 @@
 ## [css](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Acss)
 
 1. [用css美化你的浏览器滚动条](https://github.com/qianlongo/blog/issues/23)
+2. [聊一聊这些常见而且实用的css技巧](https://github.com/qianlongo/blog/issues/30)
 
 ## 读书笔记
 
 1. [JavaScript高级程序设计(第三版)读书笔记](https://github.com/qianlongo/professional-js)
+
