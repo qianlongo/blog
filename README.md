@@ -2,9 +2,11 @@
 谦龙的博客，热爱生活，热爱编程，刚入门的一名前端小码农，在这里，写自己想说的话，读过的书，爱的人...喜欢的话点个星星✨✨✨呗
 
 ## 最新文章
-1. [你可能会用到的一个路由适配器](https://github.com/qianlongo/blog/issues/27)
-2. [一个前端小白的"爬虫"初试](https://github.com/qianlongo/blog/issues/26)
-3. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
+
+1. [从零到有模拟实现一个Set类](https://github.com/qianlongo/blog/issues/34)
+2. [你可能会用到的一个路由适配器](https://github.com/qianlongo/blog/issues/27)
+3. [一个前端小白的"爬虫"初试](https://github.com/qianlongo/blog/issues/26)
+4. [如何实现swipe、tap、longTap等自定义事件](https://github.com/qianlongo/blog/issues/21)
 
 ## [Nodejs](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3Anodejs)
 
@@ -16,6 +18,7 @@
 ## [JS](https://github.com/qianlongo/blog/labels/JS)
 
 1. [jQuery中$()函数的7种用法汇总](https://github.com/qianlongo/blog/issues/24)
+2. [从零到有模拟实现一个Set类](https://github.com/qianlongo/blog/issues/34)
 
 ## [Zepto](https://github.com/qianlongo/blog/issues?q=is%3Aissue+is%3Aopen+label%3AZepto)
 
